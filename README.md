@@ -1,3 +1,9 @@
 # 170project
 
-#Apologies for the strange submission format--we faced some technical difficulty uploading to Gradescope. Unzip the 170project folder and run according to project specs in project readME.
+Unzip the project folder and run according to readME in the folder.
+
+Run
+
+python3 python/solve_all.py inputs outputs
+
+and solutions should populate the outputs folder.
